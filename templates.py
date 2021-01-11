@@ -5502,6 +5502,26 @@ templates = {
         ],
     },
 
+    'interlingue-noun': {
+        '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Interlingue'},
+        'label': 'substantive in interlingue',
+        'language_item_id': 'Q35850',
+        'language_code': 'ie',
+        'lexical_category_item_id': 'Q1084',
+        'forms': [
+            {
+                'label': 'singulare',
+                'example': 'Yo have un [cat].',
+                'grammatical_features_item_ids': ['Q110786'],
+            },
+            {
+                'label': 'plurale',
+                'example': 'Yo have du [cats].',
+                'grammatical_features_item_ids': ['Q146786'],
+            },
+        ],
+    },
+
     'ido-noun': {
         '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Ido'},
         'label': 'Ido-substantivo',
