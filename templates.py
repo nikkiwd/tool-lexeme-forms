@@ -5502,6 +5502,26 @@ templates = {
         ],
     },
 
+    'ido-noun': {
+        '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Ido'},
+        'label': 'Ido-substantivo',
+        'language_item_id': 'Q35224',
+        'language_code': 'io',
+        'lexical_category_item_id': 'Q1084',
+        'forms': [
+            {
+                'label': 'singularo',
+                'example': 'Me havas [kato].',
+                'grammatical_features_item_ids': ['Q110786'],
+            },
+            {
+                'label': 'pluralo',
+                'example': 'Me havas du [kati].',
+                'grammatical_features_item_ids': ['Q146786'],
+            },
+       ],
+    },
+
     'italian-noun-feminine': {
         '@attribution': {'users': ['Sannita'], 'title': 'Wikidata:Wikidata Lexeme Forms/Italian'},
         'label': 'sostantivo femminile italiano',
