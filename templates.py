@@ -5482,6 +5482,26 @@ templates = {
         },
     },
 
+    'interlingua-noun': {
+        '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Interlingua'},
+        'label': 'substantivo de interlingua',
+        'language_item_id': 'Q35934',
+        'language_code': 'ia',
+        'lexical_category_item_id': 'Q1084',
+        'forms': [
+            {
+                'label': 'singular',
+                'example': 'Io ha un [catto].',
+                'grammatical_features_item_ids': ['Q110786'],
+            },
+            {
+                'label': 'plural',
+                'example': 'Io ha duo [cattos].',
+                'grammatical_features_item_ids': ['Q146786'],
+            },
+        ],
+    },
+
     'italian-noun-feminine': {
         '@attribution': {'users': ['Sannita'], 'title': 'Wikidata:Wikidata Lexeme Forms/Italian'},
         'label': 'sostantivo femminile italiano',
