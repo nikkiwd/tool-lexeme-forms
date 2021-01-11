@@ -7123,6 +7123,26 @@ templates = {
         },
     },
 
+    'novial-noun': {
+        '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Novial'},
+        'label': 'Novial substantive',
+        'language_item_id': 'Q36738',
+        'language_code': 'nov',
+        'lexical_category_item_id': 'Q1084',
+        'forms': [
+            {
+                'label': 'singulare',
+                'example': 'Me have un [kate].',
+                'grammatical_features_item_ids': ['Q110786'],
+            },
+            {
+                'label': 'plurale',
+                'example': 'Me have du [kates].',
+                'grammatical_features_item_ids': ['Q146786'],
+            },
+        ],
+    },
+
     'polish-noun': {
         '@attribution': {'users': ['KaMan'], 'title': 'Wikidata:Wikidata Lexeme Forms/Polish'},
         'label': 'polski rzeczownik, prosta odmiana bez wariantów w żadnym z przypadków',
