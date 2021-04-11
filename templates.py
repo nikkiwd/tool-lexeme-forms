@@ -4479,6 +4479,21 @@ templates = {
         ],
     },
 
+    'esperanto-numeral': {
+        '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Esperanto'},
+        'label': 'esperanta numeralo',
+        'language_item_id': 'Q143',
+        'language_code': 'eo',
+        'lexical_category_item_id': 'Q63116',
+        'forms': [
+            {
+                'label': 'lexeme',
+                'example': 'Kiom faras unu kaj [unu]?',
+                'grammatical_features_item_ids': [],
+            },
+        ],
+    },
+
     'spanish-noun-masculine': {
         '@attribution': {'users': ['Andreasmperu'], 'title': 'Wikidata:Wikidata Lexeme Forms/Spanish'},
         'label': 'sustantivo masculino en español',
