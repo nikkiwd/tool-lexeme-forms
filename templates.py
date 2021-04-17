@@ -4433,6 +4433,21 @@ templates = {
         ],
     },
 
+    'esperanto-adverb': {
+        '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Esperanto'},
+        'label': 'esperanta adverbo',
+        'language_item_id': 'Q143',
+        'language_code': 'eo',
+        'lexical_category_item_id': 'Q380057',
+        'forms': [
+            {
+                'label': 'lexeme',
+                'example': 'Mi kuras [rapide].',
+                'grammatical_features_item_ids': [],
+            },
+        ],
+    },
+
     'esperanto-verb': {
         '@attribution': {'users': ['Nikki'], 'title': 'Wikidata:Wikidata Lexeme Forms/Esperanto'},
         'label': 'esperanta verbo',
